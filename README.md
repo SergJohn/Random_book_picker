@@ -2,6 +2,8 @@
 
 A simple Streamlit app that randomly picks a book from a list — perfect for when your book club can't agree on what to read next.
 
+![](https://github.com/SergJohn/Random_book_picker/blob/main/output-optimized2.gif)
+
 ## How it works
 
 Upload a CSV file with your book list, and the app will randomly select one title after a short suspenseful countdown.
