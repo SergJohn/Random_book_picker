@@ -4,6 +4,7 @@ from time import sleep
 
 st.title("Book Club")
 st.subheader("Random book chosen from list")
+st.image("book_club.png")
 
 uploaded_file = st.file_uploader("Upload a file with the books list", type=["csv"])
 
