@@ -2,7 +2,14 @@
 
 A simple Streamlit app that randomly picks a book from a list — perfect for when your book club can't agree on what to read next.
 
+## How does it looks like?
+
+![main page](book_main_page.png)
+
+## Quick demo
+
 ![](https://github.com/SergJohn/Random_book_picker/blob/main/output-optimized2.gif)
+ps.: this was not the final version (final one can be seen in the previous section)
 
 ## How it works
 
