@@ -9,7 +9,7 @@ A simple Streamlit app that randomly picks a book from a list — perfect for wh
 ## Quick demo
 
 ![](https://github.com/SergJohn/Random_book_picker/blob/main/output-optimized2.gif)
-ps.: this was not the final version (final one can be seen in the previous section)
+ps.: this was not the final version, screen record was made during development phase (the final one can be seen in the previous section: How does it looks like)
 
 ## How it works
 
