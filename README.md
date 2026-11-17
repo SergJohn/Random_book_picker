@@ -13,7 +13,7 @@ ps.: this was not the final version, screen record was made during development p
 
 ## How it works
 
-Upload a CSV file with your book list, and the app will randomly select one title after a short suspenseful countdown.
+Upload a CSV file with your book list, and the app will randomly select one title after a short suspenseful countdown. A csv sample can be find in this repository.
 
 ## Getting started
 
